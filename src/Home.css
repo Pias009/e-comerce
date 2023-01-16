@@ -1,0 +1,71 @@
+html, body{
+    height: 100%;
+}
+#Home{
+    height: 37rem;
+    background-color: rgb(8, 8, 8);
+    justify-items: center;
+    align-items: center;
+}
+#cyber{
+    height: 600px;
+    padding: 20px 20px 70px 390px;
+    justify-items: center;
+    align-items: center;
+}
+#Name{
+    margin-top: -400px;
+    font-size: xx-large;
+    
+}
+#Home-2{
+    height: 37rem;
+    background-color: rgb(8, 8, 8);
+    justify-items: center;
+    align-items: center;
+}
+#x{
+    height: 600px;
+    padding: 20px 20px 70px 390px;
+    margin-left: -370px;
+    justify-items: center;
+    align-items: center;
+}
+#Gx{
+    margin-top: -400px;
+    margin-left: 950px;
+    font-size: xx-large;
+    
+}
+.btn-Mc{
+    box-sizing: border-box;
+    border-style: solid ;
+    border-radius: 10px;
+    height: 50px;
+    width: 200px;
+    background-color: rgb(5, 59, 234);
+    align-items: center;
+    padding: 10px 2px 4px 4px;
+    padding-left: 60px;
+    font-family: cursive;
+    margin-left: 70px;
+    margin-top: 150px;
+    color: bisque;
+    
+}
+.btn-Gx{
+    box-sizing: border-box;
+    border-style: solid ;
+    border-radius: 10px;
+    height: 50px;
+    width: 200px;
+    background-color: rgb(234, 5, 5);
+    align-items: center;
+    padding: 10px 2px 4px 4px;
+    padding-left: 60px;
+    font-family: cursive;
+    margin-left: 990px;
+    margin-top: 150px;
+    color: bisque;
+    
+}
