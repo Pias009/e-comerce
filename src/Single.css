@@ -1,0 +1,50 @@
+.Mc-info{
+    box-sizing: border-box;
+    height: 500px;
+    width: 1000px;
+    border: 9px solid red;
+    margin: 65px;
+    
+}
+.Mc-img{
+   height: 300px;
+   width: auto;
+   object-fit: content;
+   border: 3px inset rgb(10, 121, 249);
+   padding: 10px 10px;
+   margin: 10px;
+
+}
+.Mc-heading{
+    font-family: san;
+    font-size: xx-large;
+    margin: 10px;
+    margin-left: 100px;
+    color: rgb(24, 250, 4);
+}
+.MC-title{
+color: rgb(76, 225, 225);
+margin: 15px;
+margin-top: 55px;
+margin-left:150px;
+font-size: x-large;
+font-family:fantasy;
+
+
+
+}
+
+.MC-H{
+    font-size: small;
+    box-sizing: border-box;
+    margin-left: 600px;
+    margin-top: -450px;
+    width: 340px;
+    object-fit: contain;
+   border: 3px solid red;
+   padding: 15px;
+
+}
+span{
+    color: rgb(255, 0, 0);
+}

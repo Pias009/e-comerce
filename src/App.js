@@ -27,7 +27,8 @@ return (
     <Route path='/products' element={<Products/>} />
     <Route path='/contact' element={<Contact/>} />
     <Route path='/cart' element={<Cart/>} />
-    <Route path='/singleproduct/:id' element={<Singleproduct/>} />
+    <Route path='/Singleproduct' element={<Singleproduct/>}
+    />
     <Route path='/err' element={<Err/>} />
   </Routes>
  </Router>
