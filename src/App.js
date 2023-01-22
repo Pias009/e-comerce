@@ -8,8 +8,7 @@ import Singleproduct from './Singleproduct';
 import Cart from './Cart';
 import Err from './Err';
 import Nave from './component/Nave';
-
-
+import Mobuile from './Mobuile';
 
 
 function App() {
@@ -18,11 +17,15 @@ return (
     <>
     <Nave/>
    
+  <butto clasName="btn" >
+
+  </butto>
  <Router>
  
   <Routes>
   
     <Route path='/' element={<Home />} />
+    <Route path='./Mobuile.js' element={<Mobuile />}/>
     <Route path='/about' element={<About/>} />
     <Route path='/products' element={<Products/>} />
     <Route path='/contact' element={<Contact/>} />

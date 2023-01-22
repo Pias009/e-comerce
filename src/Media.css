@@ -1,0 +1,25 @@
+.container{
+    box-sizing: border-box;
+    box-shadow: 7px 7px red;
+    min-height: 30rem;
+    max-width: 300px;
+    border: 6px orange solid;
+    color: red;
+    align-items: center;
+    background-color: darkblue;
+    margin-top: 30px;
+    
+}
+@media  (max-width:500px) {
+    .container{
+        width: 200rem;
+        min-height: 20rem;
+        background-color: rgb(243, 243, 243);
+        align-items: center;
+        display: block;
+        object-fit: contain;
+        justify-content: center;
+        
+    }
+  
+}
